@@ -58,6 +58,6 @@
 
 | Phần | Hỏi gì | Nhận gì | Sửa hoặc kiểm chứng gì |
 | --- | --- | --- | --- |
-| API |Nhờ hướng dẫn cách lấy API key | Claude hướng dẫn cách lấy API trên AIstudio | Làm theo hướng dẫn |
+| API |Nhờ hướng dẫn cách lấy API key | Claude hướng dẫn cách lấy API của OpenAI | Làm theo hướng dẫn |
 
 **Điều học viên hiểu ra hôm nay: Các quy tắc khi làm việc với API và cách gọi API
